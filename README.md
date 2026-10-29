@@ -1,4 +1,5 @@
 # cLOCK-IN
-A custom Alarm Clock!
 
-![Uploading cLOCK-IN headbanner photo.png…]()
+
+<img width="877" height="520" alt="cLOCK-IN headbanner photo" src="https://github.com/user-attachments/assets/fbee634c-a456-4884-bbdd-a407e4aec81f" />
+
