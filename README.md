@@ -121,7 +121,7 @@ I'm new to CAD Designing So, it was not easy for me. I have designed this case i
 ## Credits
 
 - **HackClub:** - for organizing the program
-- **Hackpad Team:** - for tutorials and resources
+- **BLARE Team:** - for tutorials and resources
 
 ---
 
