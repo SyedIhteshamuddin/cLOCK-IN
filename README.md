@@ -14,7 +14,7 @@ A 4-key alarm clock built on a Seeed XIAO ESP32-C3 with a 284x76 ST7789 display 
 ---
 I have spent over 8+ hours on this project. And I have learned alot while doing this project!
 
-<img width="877" height="520" alt="cLOCK-IN headbanner photo" src="https://github.com/user-attachments/assets/fbee634c-a456-4884-bbdd-a407e4aec81f" />
+<img width="776" height="473" alt="cLOCK-IN pic" src="https://github.com/user-attachments/assets/5cc1883a-a56b-402e-8333-4d2315b5eb6c" />
 
 ---
 
