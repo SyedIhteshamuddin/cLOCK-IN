@@ -73,6 +73,22 @@ I'm new to CAD Designing So, it was not easy for me. I have designed this case i
 | 5 | 3D-Printed Case (Base + Top Plate) | 1 set | Self-fabricated |
 
 
+## BOM - Bill of Materials
+
+| # | Component | Qty | Source |
+|---|---|---:|---|
+| 1 | Seeed Studio XIAO ESP32C3 | 1 | BLARE Kit |
+| 2 | MX-Style Yellow Switches | 4 | BLARE Kit |
+| 3 | White Blank DSA Keycaps | 4 | BLARE Kit |
+| 4 | 2.25-inch TFT Display | 1 |BLARE Kit |
+| 5 | 3.3V Piezo Buzzer | 1 | BLARE Kit |
+| 6 | 2.54mm 8-Pin Male Header | 1 | BLARE Kit |
+| 7 | 20cm Female-Female Jumper Wires | 8 | BLARE Kit |
+| 8 | M3 × 5 × 4mm Heat-set Inserts | 4 | BLARE Kit |
+| 9 | M3 × 8mm Screws | 4 | BLARE Kit |
+| 10 | M3 × 16mm Screws | 4 | BLARE Kit |
+
+
 ## Notes
 
 - **Controller:** Seeed Studio XIAO ESP32-C3.
