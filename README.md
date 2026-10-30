@@ -61,17 +61,6 @@ I'm new to CAD Designing So, it was not easy for me. I have designed this case i
 
 ---
 
-## BOM - Bill of Materials
-
-
-| # | Component | Qty | Source |
-|---:|---|---:|---|
-| 1 | Seeed Studio XIAO ESP32-C3 | 1 | Hack Club Kit |
-| 2 |  MX Switches | 4 | Hack Club Kit |
-| 3 |2.25in TFT display | 1 | Hack Club Kit |
-| 4 |  3.3V Buzzer | 1 | Hack Club Kit |
-| 5 | 3D-Printed Case (Base + Top Plate) | 1 set | Self-fabricated |
-
 
 ## BOM - Bill of Materials
 
@@ -130,7 +119,7 @@ I'm new to CAD Designing So, it was not easy for me. I have designed this case i
 ---
 ## AI Usage
 
- I used AI for assistance in Firmware. Rest all work is done by me! [ For Proof : You can check Lapse recording ] 
+ I used AI for assistance in Firmware. Rest all work is done by me!
 
 ---
 
