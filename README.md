@@ -1,6 +1,6 @@
 # cLOCK-IN
 
-A 4-key alarm clock built on a Seeed XIAO ESP32-C3 with a 284x76 ST7789 display and a buzzer.
+A 4-key alarm clock built on a Seeed XIAO ESP32-C3 with a 284x76 ST7789 display and a buzzer. An alarm clock to wake you up to LOCK-IN!!
 
 ## Hardware
 - XIAO ESP32-C3
